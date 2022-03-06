@@ -1,0 +1,5 @@
+package com.ecommerce.shoppingwebsite.configuration;
+
+public class SecurityConfig {
+
+}
